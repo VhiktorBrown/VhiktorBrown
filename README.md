@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hey there. You cannot not love Victor. 👋
 
 
 
-- 🔭 I’m currently working on 2 projects with 2 teams that would be out soon, primarily focused on android development and it's intricacies.
-- 🌱 I recently started learning how to build API's with both the spring framework(spring boot) and also with PHP.
+- 🔭 I’m currently working on 2 projects with 2 teams. One is out and we're working on a subsequent version. Other is still in development.
+- 🌱 I recently started learning how to build API's with Node js. I am also well versed with working with Firebase.
 - 👯 I’m looking to collaborate on a project that would introduce me to something new. I love to learn on the go.
-- 👽 I’m looking for help with learning the ins and outs of Ethical hacking.
+- 👽 I’m looking for help with learning the ins and outs of Ethical hacking, something like a mentor?.
 - 💬 Ask me about anything.
-- 📫 How to reach me: ... Reach me through my Gmail on my profile.
-- ⚡ Fun fact: ... If you find purpose in what you do, you would lose yourself in it. That's what coding does to me.
+- 📫 Reach me through my Gmail on my profile.
+- ⚡ Fun fact: ... If you find purpose in what you do, you would lose yourself in it..
 
