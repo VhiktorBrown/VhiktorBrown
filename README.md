@@ -1,4 +1,4 @@
-### Hey there. You cannot not love Victor. 👋
+### Hey there! 👋
 
 
 
@@ -6,7 +6,6 @@
 - 🌱 I recently started learning how to build API's with Node js. I am also well versed with working with Firebase.
 - 👯 I’m looking to collaborate on a project that would introduce me to something new. I love to learn on the go.
 - 👽 I’m looking for help with learning the ins and outs of Ethical hacking, something like a mentor?.
-- 💬 Ask me about anything.
 - 📫 Reach me through my Gmail on my profile.
-- ⚡ Fun fact: ... If you find purpose in what you do, you would lose yourself in it..
+- ⚡ Quote: ... If you find purpose in what you do, you would lose yourself in it..
 
