@@ -8,6 +8,7 @@
 - 👽 I have spent the last 6 months building [Syticks MMP](https://play.google.com/store/apps/details?id=com.app.syticks) and the MMP for [Syticks For Organizers](https://play.google.com/store/apps/details?id=com.app.syticks_organizers)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=github-readme-stats&show_owner=true)](https://github.com/VhiktorBrown/github-readme-stats)
+[![Bank App](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=bank-app&show_owner=true)](https://github.com/VhiktorBrown/github-readme-stats)
 [![Track your finance](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=track-your-finance&show_owner=true)](https://github.com/VhiktorBrown/github-readme-stats)
 [![Whistle Blower](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=WhistleBlower&show_owner=true)](https://github.com/VhiktorBrown/github-readme-stats)
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VhiktorBrown&count_private=true&show_icons=true&hide=prs)](https://github.com/VhiktorBrown/github-readme-stats)
