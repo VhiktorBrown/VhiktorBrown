@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on projects that would open me up to newer and tougher challenges.
 - 👽 These are some of the apps I've built and deployed to Playstore:
 - 📱 [Syticks MMP](https://play.google.com/store/apps/details?id=com.app.syticks)
-- 📱 [Syticks For Organizers - Admin end to the client app](https://play.google.com/store/apps/details?id=com.app.syticks_organizers)
+- 📱 [Syticks For Businesses](https://play.google.com/store/apps/details?id=com.app.syticks_organizers)
+- 📱 [iQuest](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=github-readme-stats&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
 [![Bank App](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=bank-app&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
