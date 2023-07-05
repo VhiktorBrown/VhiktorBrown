@@ -1,11 +1,19 @@
-### Hey you 👋
 
+- 🔭 I am Victor👋. I enjoy building Mobile apps. I started out as an Android developer and then transitioned into a Flutter developer.
 
+- I am very comfortable with the Flutter framework and Dart programming language. I am also very proficient in Java and Kotlin seeing as these were the languages I started out with.
 
-- 🔭 I build Android and iOS apps. I write Java, Kotlin and Dart for Flutter. I love the theatrics behind building and consuming API's.
-- 🌱 In my free time, I build API's with Node js, Javascript, Express and MongoDB.
-- 👯 I’m looking to collaborate on projects that would open me up to newer and tougher challenges.
-- 👽 These are some of the apps I've built and deployed to Playstore:
+- I have been in the Mobile developing space for almost 4 years now and within this time, I have deployed a number of apps to the Playstore.
+
+- I am a contributor to the open source community. I developed a library that helps developers accept payments in their app with just few lines of code. You'll find this repo in my repositories space. I hope to find the time to build more libraries.
+
+- While I was in the University, I founded this idea with 2 of my friends which we worked on and today it's an app that's bringing thousands of undergraduates closer to their academic goals. You can check it out [here](https://play.google.com/store/apps/details?id=com.app.iquest)
+  
+- 🌱 I developed an interest in building API's that power frontend technology almost 2 years ago and I learnt how to build API's with Javascript, Express and I do that only for fun or for personal projects.
+  
+- 👯 It gives me immense joy knowing that products I build somehow make the lives of thousands of people out there better - people that I might never meet in my life. It's beautiful building actual solutions and that's what I have dedicated my life to doing.
+  
+- Here are some of the apps that I have built and deployed to Playstore.
 - 📱 [Syticks MMP](https://play.google.com/store/apps/details?id=com.app.syticks)
 - 📱 [Syticks For Businesses](https://play.google.com/store/apps/details?id=com.app.syticks_organizers)
 - 📱 [iQuest](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
