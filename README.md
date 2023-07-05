@@ -14,8 +14,8 @@
 - 👯 It gives me immense joy knowing that products I build somehow make the lives of thousands of people out there better - people that I might never meet in my life. It's beautiful building actual solutions and that's what I have dedicated my life to doing.
   
 - Here are some of the apps that I have built and deployed to Playstore.
-- 📱 [Syticks MMP](https://play.google.com/store/apps/details?id=com.app.syticks)
-- 📱 [Syticks For Businesses](https://play.google.com/store/apps/details?id=com.app.syticks_organizers)
+- 📱 [The Syticks App](https://play.google.com/store/apps/details?id=com.app.syticks)
+- 📱 [The Syticks App For Businesses](https://play.google.com/store/apps/details?id=com.app.syticks_organizers)
 - 📱 [iQuest](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
 
 
