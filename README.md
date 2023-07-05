@@ -7,7 +7,7 @@
 
 - I am a contributor to the open source community. I developed a library that helps developers accept payments in their app with just few lines of code. You'll find this repo in my repositories space. I hope to find the time to build more libraries.
 
-- While I was in the University, I founded this idea with 2 of my friends which we worked on and today it's an app that's bringing thousands of undergraduates closer to their academic goals. You can check it out [here](https://play.google.com/store/apps/details?id=com.app.iquest)
+- While I was in the University, I founded this idea with 2 of my friends which we worked on and today it's an app that's bringing thousands of undergraduates closer to their academic goals. You can check it out [here](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
   
 - 🌱 I developed an interest in building API's that power frontend technology almost 2 years ago and I learnt how to build API's with Javascript, Express and I do that only for fun or for personal projects.
   
