@@ -10,6 +10,8 @@
 - While I was in the University, I founded this idea with 2 of my friends which we worked on and today it's an app that's bringing thousands of undergraduates closer to their academic goals. You can check it out [here](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
   
 - 🌱 I developed an interest in building API's that power frontend technology almost 2 years ago and I learnt how to build API's with Javascript, Express and I do that only for fun or for personal projects.
+
+- I have a Medium following where I write about How-to's, share my development experience and write about anything programming related. Do check it out [here](https://medium.com/@victorrebuka).
   
 - 👯 It gives me immense joy knowing that products I build somehow make the lives of thousands of people out there better - people that I might never meet in my life. It's beautiful building actual solutions and that's what I have dedicated my life to doing.
   
