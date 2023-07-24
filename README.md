@@ -5,7 +5,7 @@
 
 - I have been in the Mobile developing space for almost 4 years now and within this time, I have deployed a number of apps to Playstore.
 
-- I have contributed to the open source community. I developed a [library](https://github.com/VhiktorBrown&repo=Paystack-webview-android) that helps developers accept payments in their app with just few lines of code.
+- I have contributed to the open source community. I developed a [library](https://github.com/VhiktorBrown/Paystack-webview-android) that helps developers accept payments in their app with just few lines of code.
 
 - While I was in the University, I founded this idea with 2 friends which we worked on and today, it's an app that's bringing thousands of undergraduates closer to their academic goals. You can check it out [here](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
   
