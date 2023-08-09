@@ -27,5 +27,4 @@
 [![Track your finance](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=track-your-finance&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
 [![Kotlin Chat App](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=KotlinChatApp&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
 [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VhiktorBrown&count_private=true&show_icons=true&hide=prs&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=VhiktorBrown&layout=compact&langs_count=8&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
 
