@@ -14,12 +14,3 @@
 - I have a Medium following where I write about How-to's, share my development experience and write about anything and everything concerning building relevant & impactful projects. Do check it out [here](https://medium.com/@victorrebuka).
   
 - 👯 Quote - 'The only limitations we have are the ones we lay in our minds.'
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=github-readme-stats&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
-[![Paystack-webview-android(Open Source)](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=Paystack-webview-android&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
-[![Bank App](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=bank-app&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
-[![Track your finance](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=track-your-finance&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
-[![Kotlin Chat App](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=KotlinChatApp&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
-[![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VhiktorBrown&count_private=true&show_icons=true&hide=prs&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
-
