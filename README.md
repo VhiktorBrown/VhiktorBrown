@@ -14,14 +14,6 @@
 - I have a Medium following where I write about How-to's, share my development experience and write about anything and everything concerning building relevant & impactful projects. Do check it out [here](https://medium.com/@victorrebuka).
   
 - 👯 Quote - 'The only limitations we have are the ones we lay in our minds.'
-  
-- Here are some of the production apps that I have built and deployed to Playstore and the Appstore.
-- 📱 [Lola Finance](https://play.google.com/store/apps/details?id=com.baseafrique.lolamobile)
-- 📱 [Lola Finance(iOS)](https://play.google.com/store/apps/details?id=com.baseafrique.lolamobile)
-- 📱 [iQuest](https://play.google.com/store/apps/details?id=com.app.iquest_unizik)
-- 📱 [The Syticks App](https://play.google.com/store/apps/details?id=com.app.syticks)
-- 📱 [The Syticks App For Businesses](https://play.google.com/store/apps/details?id=com.app.syticks_organizers)
-- 📱 [CareOne Health(iOS)](https://apps.apple.com/us/app/mycareone/id6468363034)
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VhiktorBrown&repo=github-readme-stats&show_owner=true&theme=city_lights)](https://github.com/VhiktorBrown/github-readme-stats)
