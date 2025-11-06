@@ -1,9 +1,9 @@
 
-- I am Victor👋. I enjoy building Mobile apps. I started out as an Android developer and then transitioned into a Flutter developer.
+- I am Victor👋. I enjoy building Mobile apps & Products in general. I started out as an Android developer and then transitioned into a Flutter developer & a Technical Product Manager.
 
 - I am very comfortable with the Flutter framework and Dart SDK. I am also very proficient in Java and Kotlin seeing as these were the languages I started out with.
 
-- I have been in the Mobile developing space for over 5 years now and within this time, I have deployed a significant number of apps to Playstore and the Appstore.
+- I have been in the Mobile developent space for over 5 years now and within this time, I have deployed a significant number of apps to Playstore and the Appstore.
 
 - I am actively contributing to the open source community. I have built 2 libraries so far, [Native Android library](https://github.com/VhiktorBrown/Paystack-webview-android) and a [Flutter package](https://pub.dev/packages/paystack_for_flutter) that helps developers accept payments through Paystack in their app with just few lines of code.
 
